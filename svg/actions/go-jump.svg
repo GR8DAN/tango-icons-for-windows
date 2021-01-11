@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="go-jump.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:version="0.32"
+   id="svg11300"
+   height="256px"
+   width="256px"
+   inkscape:export-filename="..\..\256x256\actions\go-jump.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1">
+  <title
+     id="title32">Go Jump Icon</title>
+  <defs
+     id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2702">
+      <stop
+         style="stop-color:#3a7304;stop-opacity:1;"
+         offset="0"
+         id="stop2704" />
+      <stop
+         style="stop-color:#3a7304;stop-opacity:0;"
+         offset="1"
+         id="stop2706" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2187">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop2189" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop2191" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2161">
+      <stop
+         style="stop-color:#519e07;stop-opacity:1"
+         offset="0"
+         id="stop2163" />
+      <stop
+         style="stop-color:#6cc813;stop-opacity:1"
+         offset="1.0000000"
+         id="stop2165" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8662"
+       inkscape:collect="always">
+      <stop
+         id="stop8664"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop8666"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.536723,0,16.87306)"
+       r="15.644737"
+       fy="36.421127"
+       fx="24.837126"
+       cy="36.421127"
+       cx="24.837126"
+       id="radialGradient8668"
+       xlink:href="#linearGradient8662"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2161"
+       id="linearGradient2167"
+       x1="22.000000"
+       y1="16.642263"
+       x2="19.377108"
+       y2="12.448164"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.171926,0,0,1.171926,-4.674553,-1.427903)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2187"
+       id="linearGradient2193"
+       x1="14.296179"
+       y1="15.230618"
+       x2="10.022297"
+       y2="23.105061"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.171926,0,0,1.171926,-4.674553,-1.427903)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2702"
+       id="linearGradient2708"
+       x1="12.105637"
+       y1="24.589863"
+       x2="6.1056361"
+       y2="29.839863"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8662"
+       id="radialGradient8668-2"
+       cx="24.837126"
+       cy="36.421127"
+       fx="24.837126"
+       fy="36.421127"
+       r="15.644737"
+       gradientTransform="matrix(7.441256,0,0,2.1985552,-66.319419,-270.57393)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-y="160"
+     inkscape:window-x="0"
+     inkscape:window-height="841"
+     inkscape:window-width="1372"
+     inkscape:showpageshadow="false"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:cy="126.69652"
+     inkscape:cx="67.490385"
+     inkscape:zoom="2"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="0.25490196"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     fill="#8ae234"
+     stroke="#8ae234"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner, Daniel S. Fowler</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>https://tekeye.uk/free_resources/tango_desktop_project/index</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:title>Go Jump Icon</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>go</rdf:li>
+            <rdf:li>jump</rdf:li>
+            <rdf:li>seek</rdf:li>
+            <rdf:li>arrow</rdf:li>
+            <rdf:li>pointer</rdf:li>
+            <rdf:li>green computer</rdf:li>
+            <rdf:li>icon</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:date> 2020-12-30</dc:date>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Public Domain</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>https://tekeye.uk/</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>https://tekeye.uk/free_resources/tango_desktop_project/images/svg/actions/go-jump.svg</dc:identifier>
+        <dc:relation>https://tekeye.uk/free_resources/tango_desktop_project/images/svg/actions/go-first.svg</dc:relation>
+        <dc:language>en-GB</dc:language>
+        <dc:coverage>computing</dc:coverage>
+        <dc:description>A jump icon.</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     id="layer1">
+    <g
+       id="g44">
+      <g
+         id="g30"
+         transform="matrix(5.449117,0,0,5.4491164,-6.7720327,-7.0565857)">
+        <path
+           transform="matrix(1.489736,0,0,-1.001252,-12.26794,72.07115)"
+           id="path8660"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.141176;fill:url(#radialGradient8668);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+           cx="24.837126"
+           cy="36.421127"
+           rx="15.644737"
+           ry="8.3968935" />
+        <path
+           style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient2167);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient2708);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+           d="M 4.3920955,35.164045 C 3.0709563,-4.8617622 38.100746,1.7948935 36.92882,22.59658 h 9.375408 L 31.655153,34.31584 16.420115,22.59658 c 0,0 9.668389,0 9.668389,0 C 26.674467,8.533468 4.6559242,4.106551 4.3920955,35.164045 Z"
+           id="path1432"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           sodipodi:nodetypes="ccccccc"
+           id="path2177"
+           d="M 4.3609454,33.776714 C 4.4557415,-2.2986419 38.008172,2.0411991 35.829171,23.579043 h 7.604452 l -11.81549,9.398844 -12.230639,-9.398844 c 0,0 7.679444,0 7.679444,0 C 28.105744,5.5081081 3.1989499,4.7058695 4.3609454,33.776714 Z"
+           style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.417647;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient2193);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none" />
+      </g>
+      <ellipse
+         transform="scale(1,-1)"
+         id="path8660-6"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.141176;fill:url(#radialGradient8668-2);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.52098;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+         cx="118.5"
+         cy="-190.5"
+         rx="116.4165"
+         ry="34.395832" />
+    </g>
+  </g>
+</svg>

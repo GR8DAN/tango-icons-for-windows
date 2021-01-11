@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="..\..\256x256\actions\edit-redo.png"
+   width="256px"
+   height="256px"
+   id="svg11300"
+   sodipodi:version="0.32"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="edit-redo.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1">
+  <title
+     id="title61">Edit Redo Icon</title>
+  <defs
+     id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2240">
+      <stop
+         style="stop-color:#99b00b;stop-opacity:1;"
+         offset="0"
+         id="stop2242" />
+      <stop
+         style="stop-color:#99b00b;stop-opacity:0;"
+         offset="1"
+         id="stop2244" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2232">
+      <stop
+         style="stop-color:#788600;stop-opacity:1;"
+         offset="0"
+         id="stop2234" />
+      <stop
+         style="stop-color:#788600;stop-opacity:0;"
+         offset="1"
+         id="stop2236" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4991">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4993" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4995" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8662">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop8664" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop8666" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8662"
+       id="radialGradient8668"
+       cx="24.837126"
+       cy="36.421127"
+       fx="24.837126"
+       fy="36.421127"
+       r="15.644737"
+       gradientTransform="matrix(7.0311182,0,0,2.0773751,-44.132769,-288.1604)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient2187"
+       inkscape:collect="always">
+      <stop
+         id="stop2189"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop2191"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2187"
+       id="linearGradient1764"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-6.3859699,6.3859619,0,5.0090727,288.79968)"
+       x1="17.060806"
+       y1="11.39502"
+       x2="12.624337"
+       y2="12.583769" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4991"
+       id="radialGradient4997"
+       cx="16.563837"
+       cy="11.132236"
+       fx="16.563837"
+       fy="11.132236"
+       r="19.0625"
+       gradientTransform="matrix(-0.07030053,9.1828471,9.3347842,0.0714639,-10.380868,-61.125723)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2232"
+       id="linearGradient2238"
+       x1="33"
+       y1="35.75"
+       x2="31.5"
+       y2="42.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.449117,0,0,5.4491238,-4.7056185,-6.0039664)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2240"
+       id="linearGradient2246"
+       x1="33"
+       y1="35.75"
+       x2="31.5"
+       y2="42.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.449117,0,0,5.4491238,-4.7056185,-6.0039664)" />
+  </defs>
+  <sodipodi:namedview
+     stroke="#788600"
+     fill="#99b00b"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="0.25490196"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="92.632603"
+     inkscape:cy="125.4345"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1448"
+     inkscape:window-height="959"
+     inkscape:window-x="368"
+     inkscape:window-y="30"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner, Daniel S. Fowler</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>https://tekeye.uk/free_resources/tango_desktop_project/index</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:title>Edit Redo Icon</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>edit</rdf:li>
+            <rdf:li>redo</rdf:li>
+            <rdf:li>again</rdf:li>
+            <rdf:li>reapply</rdf:li>
+            <rdf:li>arrow</rdf:li>
+            <rdf:li>green</rdf:li>
+            <rdf:li>computer</rdf:li>
+            <rdf:li>icon</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:date> 2020-12-30</dc:date>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Public Domain</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>https://tekeye.uk/</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>https://tekeye.uk/free_resources/tango_desktop_project/images/svg/actions/edit-redo.svg</dc:identifier>
+        <dc:relation>https://tekeye.uk/free_resources/tango_desktop_project/images/svg/actions/edit-undo.svg</dc:relation>
+        <dc:language>en-GB</dc:language>
+        <dc:coverage>computing</dc:coverage>
+        <dc:description>An edit redo icon.</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <g
+       id="g59"
+       transform="matrix(1.0583318,0,0,1.0583333,-9.6958023,-3.2916704)">
+      <ellipse
+         transform="scale(1,-1)"
+         id="path8660"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.141176;fill:url(#radialGradient8668);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.21668;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+         cx="130.5"
+         cy="-212.5"
+         rx="110"
+         ry="32.5" />
+      <path
+         style="color:#000000;display:block;overflow:visible;visibility:visible;fill:url(#linearGradient2246);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient2238);stroke-width:5.44912;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+         d="M 204.40294,239.39389 C -13.702375,246.59294 20.767889,60.985109 134.21848,62.097276 V 11.009504 L 224.938,90.493581 134.21848,173.85172 c 0,0 0,-52.6842 0,-52.6842 -76.631537,-3.19303 -99.051485,116.78878 70.18446,118.22637 z"
+         id="path1432"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         id="path2177"
+         d="M 87.520251,208.23116 C 23.639709,175.10252 42.904011,65.311381 139.7423,67.831438 V 23.698487 c 0,0 76.54777,66.826535 76.54777,66.826535 L 139.7423,161.05863 c 0,0 0,-45.10587 0,-45.10587 -80.864079,-1.89777 -77.159007,69.51774 -52.222049,92.2784 z"
+         style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.698864;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient1764);stroke-width:5.44912;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none" />
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.494318;fill:url(#radialGradient4997);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.44912;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+         d="m 137.17298,18.890952 58.23329,55.742529 c -37.80325,-6e-6 -25.53859,48.699819 -58.91443,64.366049 l 0.34057,-19.98093 C 54.073947,118.67803 58.841924,203.48002 119.12278,226.63879 15.109231,200.03656 29.552928,66.911353 136.49184,64.186797 Z"
+         id="path4989"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+  </g>
+</svg>

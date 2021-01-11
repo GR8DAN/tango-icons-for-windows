@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256px"
+   height="256px"
+   id="svg1800"
+   sodipodi:version="0.32"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="emblem-important.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1"
+   inkscape:export-filename="..\..\256x256\emblems\emblem-important.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <title
+     id="title26">Emblem Important Icon</title>
+  <defs
+     id="defs3">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 24 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="48 : 24 : 1"
+       inkscape:persp3d-origin="24 : 16 : 1"
+       id="perspective17" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3101">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3103" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3105" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3101"
+       id="radialGradient3107"
+       cx="17.3125"
+       cy="25.53125"
+       fx="17.3125"
+       fy="25.53125"
+       r="9.6875"
+       gradientTransform="matrix(1,0,0,0.351613,0,16.55413)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     fill="#edd400"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="0.20392157"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="137.258"
+     inkscape:cy="159.64354"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1117"
+     inkscape:window-height="859"
+     inkscape:window-x="370"
+     inkscape:window-y="30"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:title>Emblem Important Icon</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner, Daniel S. Fowler</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>important</rdf:li>
+            <rdf:li>emblem</rdf:li>
+            <rdf:li>exclamation</rdf:li>
+            <rdf:li>computer</rdf:li>
+            <rdf:li>icon</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:date>2020-12-27</dc:date>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Public Domain</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>https://tekeye.uk/</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>https://tekeye.uk/free_resources/tango_desktop_project/images/svg/emblems/emblem-important.svg</dc:identifier>
+        <dc:source>https://tekeye.uk/free_resources/tango_desktop_project/index</dc:source>
+        <dc:relation>https://tekeye.uk/free_resources/tango_desktop_project/images/svg/emblems/emblem-favourite.svg</dc:relation>
+        <dc:language>en-GB</dc:language>
+        <dc:coverage>computing</dc:coverage>
+        <dc:description>An exclamation icon, can be used as an important icon.</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <g
+       id="g24"
+       transform="matrix(5.2171686,0,0,5.2171666,1.1181474,0.30890414)">
+      <ellipse
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.409091;fill:url(#radialGradient3107);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.10534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+         id="path3099"
+         transform="matrix(2.182912,0,0,2.182912,-13.50372,-14.35012)"
+         cx="17.3125"
+         cy="25.53125"
+         rx="9.6875"
+         ry="3.40625" />
+      <ellipse
+         style="opacity:1;fill:#f57900;fill-opacity:1;fill-rule:nonzero;stroke:#914900;stroke-width:0.982149;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path1650"
+         transform="matrix(0.94463,0,0,0.980053,1.504174,-1.556912)"
+         cx="24.130018"
+         cy="23.42804"
+         rx="22.008699"
+         ry="21.213203" />
+      <ellipse
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#fcaf3e;stroke-width:0.982149;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path3392"
+         transform="matrix(0.914086,0,0,0.948364,2.380576,-0.905815)"
+         cx="24.130018"
+         cy="23.42804"
+         rx="22.008699"
+         ry="21.213203" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.1225;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 21.464926,10.373268 c -0.127974,0 -0.23461,0.174494 -0.23461,0.383907 l 1.064769,14.440824 c 0,0.209413 0.106636,0.383907 0.23461,0.383908 0,0 0.840821,0.0119 1.533989,0 0.228338,-0.0039 0.298214,0.02031 0.505314,0 0.693168,0.0119 1.533989,0 1.533989,0 0.127974,0 0.23461,-0.174495 0.23461,-0.383908 l 1.064769,-14.440824 c 0,-0.209413 -0.106636,-0.354376 -0.234611,-0.354376 h -2.580711 c -0.0095,-0.0019 -0.0082,-0.02953 -0.01805,-0.02953 z"
+         id="rect1872" />
+      <ellipse
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.1225;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path2062"
+         transform="matrix(0.504864,0,0,0.604182,32.65935,9.608845)"
+         cx="-16.4375"
+         cy="34.0625"
+         rx="4.5625"
+         ry="3.8125" />
+      <path
+         style="fill:#fffeff;fill-opacity:0.213904;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 43.676426,20.47678 c 0,10.830616 -6.052169,-4.306199 -18.674738,0.386388 C 12.279172,25.592912 4.4350535,31.307396 4.4350535,20.47678 4.4350535,9.6461627 13.22512,0.85609769 24.05574,0.85609769 c 10.830619,0 19.620686,8.79006501 19.620686,19.62068231 z"
+         id="path3068"
+         sodipodi:nodetypes="czssc" />
+    </g>
+  </g>
+</svg>
